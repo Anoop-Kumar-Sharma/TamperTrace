@@ -1,0 +1,6 @@
+﻿  TamperTrace.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1049 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TamperTrace.vcxproj -> C:\Users\winsiderss\source\repos\TamperTrace\x64\Release\TamperTrace.exe
